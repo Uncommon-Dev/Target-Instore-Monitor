@@ -1,0 +1,24 @@
+{
+  "name": "main.js",
+  "version": "1.0",
+  "main": "main.js",
+  "bin": "main.js",
+  "pkg": {
+    "assets": [
+      "node_modules"
+    ]
+  },
+  "dependencies": {
+    "async": "*",
+    "convert-csv-to-array": "*",
+    "discord-webhook-node": "*",
+    "execution-time": "*",
+    "fs": "*",
+    "got": "*",
+    "ini": "*",
+    "inquirer": "*",
+    "mysql": "*",
+    "node-tunnel": "*",
+    "prompt-sync": "*"
+  }
+}
